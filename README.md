@@ -5,12 +5,11 @@
 
  GooeyCircle (粘性小球)
   
-/Users/yinxiangkai/Desktop/Learn/A Guide To iOS Animation/KAnimatedPageControl-Demo/d2.gif
+  ![粘性小球](https://github.com/sugarAndsugar/AnimatedPageControl/blob/master/d2.gif)
 
 RotateRect (旋转方块)
 
-
-/Users/yinxiangkai/Desktop/Learn/A Guide To iOS Animation/KAnimatedPageControl-Demo/d4.gif
+  ![旋转方块](https://github.com/sugarAndsugar/AnimatedPageControl/blob/master/d4.gif)
 
 ##Blog
 https://yoon.bitcron.com/post/swift/2019-02-26
