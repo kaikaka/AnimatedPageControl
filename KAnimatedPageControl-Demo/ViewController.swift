@@ -24,7 +24,8 @@ class ViewController: UIViewController,UICollectionViewDelegate,UICollectionView
         self.pageControl.selectedColor = UIColor.red
         self.pageControl.bindScrollView = self.collectionView
         self.pageControl.shouldShowProgressLine = true
-        self.pageControl.indicatorStyle = .RotateRect
+        self.pageControl.indicatorStyle = .GooeyCircle
+//        self.pageControl.indicatorStyle = .RotateRect
         self.pageControl.indicatorSize = 20
         self.pageControl.swipeEnable = true
         self.view.addSubview(self.pageControl)
